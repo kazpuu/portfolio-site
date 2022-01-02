@@ -4,8 +4,8 @@ export const projects = [
     subtitle: "Python",
     description:
       "Scrape GPU data from jimms.fi and sort by highest/lowest price and number of GPUs",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    image: "GpuScraper.png",
+    link: "https://github.com/kazpuu/webscraper",
   },
   {
     title: "React Tracks",
